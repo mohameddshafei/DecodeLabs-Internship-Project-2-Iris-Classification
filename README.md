@@ -65,4 +65,4 @@ The project follows a basic machine learning workflow:
 2. Open the notebook file:
 
 ```bash
-iris_classification.ipynb
+AI_Project2_Iris_Classification.ipynb
